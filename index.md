@@ -1,13 +1,5 @@
-# Level 12
+# Level 13
 
 ### Task
 
-encode it
-
-363 = 216B
-
-233 = 1E9
-
-1368 = 2558
-
-372826 = ?
+<!-- Something's missing.. -->
