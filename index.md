@@ -2,8 +2,12 @@
 
 ### Task
 
-Go To Level 2
+encode it
 
-<!-- Hello! -->
-<!-- I'm "A NEW NAZO GAME" -->
-<!-- It's happy to see you come. -->
+363 = 216B
+
+233 = 1E9
+
+1368 = 2558
+
+372826 = ?
